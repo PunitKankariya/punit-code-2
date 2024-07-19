@@ -1,0 +1,7 @@
+2. Creating file:
+1)Create a new file blogs.txt
+2)Paste this in the file:
+My Personal Blog!
+1.  Setup:
+Welcome to my personal blog where I share my thoughts and experiences.
+3)Add files to git staging area

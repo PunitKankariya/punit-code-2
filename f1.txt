@@ -38,4 +38,4 @@ My First Tech Post
 2.  What I Learned:
 3.  How to make and revert changes
 4.  How to reset commits
-5.  Looking forward to exploring more!
+5.  Looking forward to exploringit g more!
